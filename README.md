@@ -1,4 +1,4 @@
-<h1>sistema de cadastro de jogos</h1>
+<h1 allign="center">sistema de cadastro de jogos</h1>
 
 > Status do projeto: Em desenvolvimento.
 
@@ -9,3 +9,6 @@ node app.js
 ```
 
 :)
+
+# Índice 
+* [Descrição do projeto] (descrição do projeto)
