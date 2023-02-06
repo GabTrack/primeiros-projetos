@@ -12,3 +12,5 @@ node app.js
 
 # Índice 
 * [Descrição do projeto] (descrição do projeto)
+
+:construction: Projeto em construção :construction:
